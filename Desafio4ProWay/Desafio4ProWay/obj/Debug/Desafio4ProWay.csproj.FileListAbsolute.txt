@@ -8,3 +8,13 @@ C:\Projetos\Desafio4ProWay\Desafio4ProWay\bin\Debug\Desafio4ProWay.exe
 C:\Projetos\Desafio4ProWay\Desafio4ProWay\bin\Debug\Desafio4ProWay.pdb
 C:\Projetos\Desafio4ProWay\Desafio4ProWay\obj\Debug\Desafio4ProWay.exe
 C:\Projetos\Desafio4ProWay\Desafio4ProWay\obj\Debug\Desafio4ProWay.pdb
+C:\Projetos\jogos\Desafio4ProWay\Desafio4ProWay\bin\Debug\Desafio4ProWay.exe.config
+C:\Projetos\jogos\Desafio4ProWay\Desafio4ProWay\bin\Debug\Desafio4ProWay.exe
+C:\Projetos\jogos\Desafio4ProWay\Desafio4ProWay\bin\Debug\Desafio4ProWay.pdb
+C:\Projetos\jogos\Desafio4ProWay\Desafio4ProWay\obj\Debug\Desafio4ProWay.csprojAssemblyReference.cache
+C:\Projetos\jogos\Desafio4ProWay\Desafio4ProWay\obj\Debug\Desafio4ProWay.frmCadastroJogos.resources
+C:\Projetos\jogos\Desafio4ProWay\Desafio4ProWay\obj\Debug\Desafio4ProWay.frmListagemJogos.resources
+C:\Projetos\jogos\Desafio4ProWay\Desafio4ProWay\obj\Debug\Desafio4ProWay.Properties.Resources.resources
+C:\Projetos\jogos\Desafio4ProWay\Desafio4ProWay\obj\Debug\Desafio4ProWay.csproj.GenerateResource.cache
+C:\Projetos\jogos\Desafio4ProWay\Desafio4ProWay\obj\Debug\Desafio4ProWay.exe
+C:\Projetos\jogos\Desafio4ProWay\Desafio4ProWay\obj\Debug\Desafio4ProWay.pdb
